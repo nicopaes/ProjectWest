@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: P 1 a
+  m_Name: p0-16
   m_Shader: {fileID: 4800000, guid: ed2d82d5d0054514ab88d171ee118ad7, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -19,7 +19,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture_142960E2:
-        m_Texture: {fileID: 2800000, guid: 7fcd2c0d21cf5664787b562f1b75835a, type: 3}
+        m_Texture: {fileID: 2800000, guid: fae7b2ccd04839749b4684c54de96feb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
